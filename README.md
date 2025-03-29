@@ -23,6 +23,6 @@ We welcome contributions from the community. If you have ideas on how to improve
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
-For any inquiries, please reach out to us at [email@example.com](mailto:email@example.com).
+For any inquiries, please reach out to us at [info@bullbeary.io](mailto:info@bullbeary.io).
 
 Join us in transforming the crypto education and earning landscape!
